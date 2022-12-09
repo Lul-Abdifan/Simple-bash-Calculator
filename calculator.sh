@@ -36,7 +36,7 @@ case $option in
                 ;;
              "3")
                 let pro=$num1*$num2
-                echo "------------------------------------" >>history.txt
+               
  
                 echo "Product = $pro"
                 echo "------------------------------------" >>history.txt 
